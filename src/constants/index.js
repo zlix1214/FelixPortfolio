@@ -56,7 +56,7 @@ export const PROJECTS = [
       "An interesting Pokédex app that allows you to search for various Pokémon and obtain their information.",
     technologies: ["React", "PokeAPI", "TailwindCSS"],
     detail : 'The Pokédex is built using React and styled with Tailwind CSS. From the main interface, users can view all Pokémon and search by their number or English name. The app fetches Pokémon data from the PokéAPI, including name, number, type, height, weight, stats, and more.',
-    liveDemo: "https://poke-dex-inky-psi.vercel.app/",
+    liveDemo: "https://poke-dex-azure.vercel.app/",
     githubRepo: "https://github.com/zlix1214/PokeDex",
   },
   {
