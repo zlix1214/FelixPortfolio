@@ -70,10 +70,21 @@ export const PROJECTS = [
     liveDemo: "https://productcrud-3g3z.onrender.com/",
     githubRepo: "https://github.com/zlix1214/ProductCRUD",
   },
+  {
+    id: 3,
+    title: "Another Portfolio Website",
+    image: project3,
+    description:
+      "A simple personal website.",
+    technologies: ["React", "Bootstrap"],
+    detail : 'A simple personal webpage built with React and Bootstrap, featuring a navbar, a hero section, a skills section, and a project section.',
+    liveDemo: "https://zlix1214.github.io/",
+    githubRepo: "https://github.com/zlix1214/zlix1214.github.io",
+  },
 ];
 
 export const CONTACT = {
-  address: "767 Fifth Avenue, New York, NY 10153 ",
+  address: "Taipei, Taiwan",
   phoneNo: "+886 963 061 131 ",
   email: "rraefelix@gmail.com",
 };

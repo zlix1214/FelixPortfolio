@@ -119,7 +119,7 @@ const Project2 = () => {
                   variants={iconVariants(2.5)}
                   initial="initial"
                   animate="animate"
-                  className="rounded-2xl border-4 border-neutral-800 p-4"
+                  className="rounded-2xl p-4"
                 >
                   <RiReactjsLine className="text-7xl text-cyan-400" />
                   <p className="text-white text-center mt-3">React</p>
@@ -128,7 +128,7 @@ const Project2 = () => {
                   variants={iconVariants(3)}
                   initial="initial"
                   animate="animate"
-                  className="rounded-2xl border-4 border-neutral-800 p-4"
+                  className="rounded-2xl p-4"
                 >
                   <SiMongodb className="text-7xl text-green-500" />
                   <p className="text-white text-center mt-3">MongoDB</p>
@@ -137,7 +137,7 @@ const Project2 = () => {
                   variants={iconVariants(6)}
                   initial="initial"
                   animate="animate"
-                  className="rounded-2xl border-4 border-neutral-800 p-4"
+                  className="rounded-2xl p-4"
                 >
                   <FaNodeJs className="text-7xl text-green-500" />
                   <p className="text-white text-center mt-3">Node.js</p>
@@ -146,7 +146,7 @@ const Project2 = () => {
                   variants={iconVariants(4)}
                   initial="initial"
                   animate="animate"
-                  className="rounded-2xl border-4 border-neutral-800 p-4"
+                  className="rounded-2xl p-4"
                 >
                   <SiExpress className="text-7xl text-white" />
                   <p className="text-white text-center mt-3">Express.js</p>
