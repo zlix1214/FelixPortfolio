@@ -129,7 +129,7 @@ const Project3 = () => {
                   className="rounded-2xl p-4"
                 >
                   <FaBootstrap className="text-7xl text-blue-600" />
-                  <p className="text-white text-center mt-3">MongoDB</p>
+                  <p className="text-white text-center mt-3">Bootstrap</p>
                 </motion.div>
                
               </motion.div>
