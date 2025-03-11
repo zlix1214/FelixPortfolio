@@ -4,7 +4,7 @@
 這是一個展示我個人資訊、技能和作品的個人網站
 
 ## 🌍 部署
-此專案已部署於 Render.com，透過以下連結直接訪問：
+此專案已部署於 Vercel，透過以下連結直接訪問：
 👉 [Felix's Portfolio](https://felix-portfolio-omega.vercel.app/)
 
 ## ✨ 功能特色
@@ -17,7 +17,7 @@
 ## 🛠 使用技術
 - **前端設計**：React + Chakra UI
 - **樣式設計**：Tailwind Css
-- **部署平台**：Vercel.com
+- **部署平台**：Vercel
 
 ## 安裝與使用 ⭐
 
